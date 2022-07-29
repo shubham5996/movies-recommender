@@ -1,4 +1,3 @@
 pandas
-difflib
 scikit-learn
 requests
